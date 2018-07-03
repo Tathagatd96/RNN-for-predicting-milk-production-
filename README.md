@@ -2,6 +2,9 @@
 
 ## Getting Started
 This implementation deals with the task of predicting the milk production capacity over a period of time based on previous production rates.
+![milk_intro](https://user-images.githubusercontent.com/28685502/42217514-2437d1d6-7ee3-11e8-936b-6ae1794257ef.png)
+
+So, we train a recurrent neural network to make predictions for the year 1975-1976 based on the data through years 1962-1975. 
 
 ## Requirements
  * Python 3.5 or above + pip
